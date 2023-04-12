@@ -6,3 +6,5 @@ This project looks into using various Python-based machine learning and data sci
 ### Problem Statement
 
 Given clinical parameters about a patient, can we predivt whether or not they have heart disease?
+
+We are going to use Pandas, Numpy and Matplotlib for data analysis and manipulation and scikit-learn for modelling.
